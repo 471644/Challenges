@@ -1,2 +1,2 @@
-# Challenge
+# Challenges
 Hotel In Mars
